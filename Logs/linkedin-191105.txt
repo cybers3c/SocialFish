@@ -1,0 +1,57 @@
+
+linkedin
+<user>: ss@cybers3c.pt
+<pass>: minhapass
+<ip>: 85.242.207.17
+<country>: Portugal
+<city>: Barreiro
+
+    
+linkedin
+<user>: Joana@sapo.pt
+<pass>: 12344
+<ip>: 87.103.66.93
+<country>: Portugal
+<city>: Lisbon
+
+    
+linkedin
+<user>: Banana@sapo.pt
+<pass>: 1234
+<ip>: 213.30.118.65
+<country>: Portugal
+<city>: Lisbon
+
+    
+linkedin
+<user>: Sempre@sapo.pt
+<pass>: 123
+<ip>: 148.69.35.20
+<country>: Portugal
+<city>: Lisbon
+
+    
+linkedin
+<user>: Totitotit
+<pass>: 123456
+<ip>: 87.103.18.204
+<country>: Portugal
+<city>: Lisbon
+
+    
+linkedin
+<user>: gsgxg@ggd.fg
+<pass>: tgg
+<ip>: 31.22.165.19
+<country>: Portugal
+<city>: Barcarena
+
+    
+linkedin
+<user>: Zedaesquina@gmail.com
+<pass>: 0987654
+<ip>: 148.69.37.16
+<country>: Portugal
+<city>: Lisbon
+
+    
