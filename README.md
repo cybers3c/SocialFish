@@ -6,7 +6,7 @@
   \_____|  |_|  |____/|______|_|  \_\_____/|____/ \_____|
 
 
-# OFICIAL TRAINIG TOOL 
+# OFICIAL TRAINING TOOL 
 # VISIT WWW.CYBERS3C.PT FOR TRAINING SESSIONS
 
 # SOCIAL FISH
